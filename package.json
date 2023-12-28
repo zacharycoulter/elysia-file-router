@@ -3,7 +3,23 @@
     "module": "src/index.ts",
     "main": "src/index.ts",
     "type": "module",
-    "version": "0.0.1-beta.1",
+    "version": "0.0.1-beta.2",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zacharycoulter/elysia-file-router.git"
+    },
+    "keywords": [
+        "bun",
+        "elysia",
+        "file",
+        "router"
+    ],
+    "author": "Zachary Coulter",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zacharycoulter/elysia-file-router/issues"
+    },
+    "homepage": "https://github.com/zacharycoulter/elysia-file-router#readme",
     "devDependencies": {
         "bun-types": "latest",
         "toml": "^3.0.0"
