@@ -21,8 +21,7 @@
     },
     "homepage": "https://github.com/zacharycoulter/elysia-file-router#readme",
     "devDependencies": {
-        "bun-types": "latest",
-        "toml": "^3.0.0"
+        "bun-types": "latest"
     },
     "peerDependencies": {
         "typescript": "^5.0.0"
