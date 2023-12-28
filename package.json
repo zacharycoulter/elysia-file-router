@@ -1,0 +1,17 @@
+{
+    "name": "elysia-file-router",
+    "module": "src/index.ts",
+    "main": "src/index.ts",
+    "type": "module",
+    "version": "0.0.1-beta.1",
+    "devDependencies": {
+        "bun-types": "latest",
+        "toml": "^3.0.0"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    },
+    "dependencies": {
+        "elysia": "^0.8.5"
+    }
+}
